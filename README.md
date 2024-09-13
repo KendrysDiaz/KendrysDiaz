@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kendrysdiaz&label=Profile%20views&color=0e75b6&style=flat" alt="kendrysdiaz" /> </p>
 
-- 🔭 I’m currently working on **CLASSMASTER**
+- 🔭 I’m currently working on **TURNAPP**
 
 - 🤝 Nickname **Ken**
 
